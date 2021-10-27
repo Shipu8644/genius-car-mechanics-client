@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "genius-car-mechanics"
-  }
+    "default": "genius-car-mechanics",
+    "development": "genius-car-mechanics-86737",
+    "staging": "genius-car-mechanics-86737"
+  },
+  "targets": {}
 }
